@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "name": "What's the best ad of all time?",
+      "description": "In his first marketing monday, Atrioc goes over a list of the best advertisements and commercials of all time.",
+      "tags": {
+        "topics": ["Ads"],
+        "companies": [
+          "Coca Cola",
+          "Trojan",
+          "Pepsi",
+          "Taco Bell",
+          "Nike",
+          "Mountain Dew",
+          "Sakeru Gummy"
+        ],
+        "people": ["Joe Grenne", "Michael Jackson", "Odell Beckham Jr."],
+        "countries": ["USA", "Japan"]
+      },
+      "mainUrl": "https://www.youtube.com/embed/9nBejN8rBX0?si=XCn9GvkEYKRJ_KAX",
+      "vodUrl": "",
+      "date": "July 24, 2020"
+    },
+    {
+      "name": "Sell me this Ad.",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/n2YBxJyoUWY?si=OSRK4GgoSLgrJWsr",
+      "vodUrl": "",
+      "date": "Aug 7, 2020"
+    },
+    {
+      "name": "I know who will win the Console Wars.",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/DloUMxdd740?si=0bOK0Kb3GGvqjfbn",
+      "vodUrl": "",
+      "date": "Sep 16, 2020"
+    },
+    {
+      "name": "Sony Strikes Back.",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/I8r7YfFLLoI?si=2V2rMCBsBX-PY060",
+      "vodUrl": "",
+      "date": "Sep 17, 2020"
+    },
+    {
+      "name": "The Return of the Xbox.",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/AvaNgB6VPDk?si=7GUF59uA81m-SbvQ",
+      "vodUrl": "",
+      "date": "Sep 23, 2020"
+    },
+    {
+      "name": "What the hell is Amazon Luna?",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/za1TREo5zYc?si=CHop5FTc0i7S952X",
+      "vodUrl": "",
+      "date": "Oct 8, 2020"
+    },
+    {
+      "name": "What's the best car ad of all time?",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/y4gIFn8hRAE?si=slKSdEt1rw2CMkBg",
+      "vodUrl": "",
+      "date": "Oct 16, 2020"
+    },
+    {
+      "name": "The worst ad I've ever played.",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/VG0IyL5mrWE?si=4vXm0QUbUwBEk4fV",
+      "vodUrl": "",
+      "date": "Oct 22, 2020"
+    },
+    {
+      "name": "How Games Make Money.",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/xh4hC5Hy2uk?si=DIMjWxXm9pFrW4QA",
+      "vodUrl": "",
+      "date": "Oct 30, 2020"
+    },
+    {
+      "name": "Quibi, The $2 Billion Dumpster Fire",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/phLZpeYYyIs?si=0ervTpbA8SZEAGhm",
+      "vodUrl": "",
+      "date": "Nov 4, 2020"
+    },
+    {
+      "name": "The Rise of Computer-Generated Influencers.",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/sAWZ9MoxvLU?si=dmuIMxB1rw_RcE_M",
+      "vodUrl": "",
+      "date": "Nov 9, 2020"
+    },
+    {
+      "name": "THE CONSOLE WAR HAS BEGUN.",
+      "description": "",
+      "tags": {
+        "topics": [],
+        "companies": [],
+        "people": [],
+        "countries": []
+      },
+      "mainUrl": "https://www.youtube.com/embed/1o_TSoR0Oto?si=9e3QOt3pf_pMa3wy",
+      "vodUrl": "",
+      "date": "Nov 12, 2020"
+    }
+  ]
+}

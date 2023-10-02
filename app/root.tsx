@@ -21,6 +21,7 @@ export default function App() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <Meta />
         <Links />
+        <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
       </head>
       <body>
         <Outlet />
